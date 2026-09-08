@@ -4,9 +4,9 @@
 
 [This is a cool website for collecting old stamps](https://www.mysticstamp.com/)
 # I am most interested in stamps that feature:
-1. Notable US historical figures
-2. Features of geography/nature
-3. Depictions of significant historical/national events
+- Notable US historical figures
+- Features of geography/nature
+- Depictions of significant historical/national events
 
 | Syntax | Description |
 | ----------- | ----------- |
