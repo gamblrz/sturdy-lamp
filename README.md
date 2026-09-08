@@ -6,6 +6,7 @@
 1. Notable US historical figures
 2. Features of geography/nature
 3. Depictions of significant historical/national events
+
 | Syntax | Description |
 | ----------- | ----------- |
 | Header | Title |
